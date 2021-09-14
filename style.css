@@ -1,0 +1,29 @@
+
+button {
+    display: block;
+    margin: 20px;
+}
+
+#search {
+    border-radius: 1rem;
+    width: 100px;
+    border-color: grey;
+    border-right-color: grey;
+    color: grey;
+}
+#plus {
+    border-radius: 1rem;
+    background-color: rgb(165, 228, 165);
+    border-width: 0px;
+    color: white;
+}
+#create-account {
+    border-width: 2px;
+    border-color: black;
+    background-color: royalblue;
+    color: white;
+    font-size: 8px;
+    width: 125px;
+    height: 20px;
+    box-shadow: 2px 2px black;
+}
